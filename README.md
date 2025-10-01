@@ -5,20 +5,17 @@ Welcome to my personal portfolio!
 Explore my projects, skills, and experience here: [🌐 Visit My Portfolio](https://bhaskarasairam.netlify.app)
 
 ## About Me
-I am a content creator and video editor with experience in web development.  
+I am an aspiring software engineer, 
 This portfolio showcases my projects, skills, and professional work.
 
 ## Skills
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, java ,SQL
 - Video Editing
 - Content Creation
 
 ## Projects
-- **Portfolio Website** – Built using HTML, CSS, and JavaScript  
-- **Other Projects** – [You can list them here]
+- **Portfolio Website** – Built using HTML, CSS, and JavaScript
+- Airline Reservation System - Built using java
+- Salesforce Library Management System - Built on salesforce crm
 
-## Contact
-- Email: your-email@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- GitHub: [Your GitHub](https://github.com/yourusername)
 
